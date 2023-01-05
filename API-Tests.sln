@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDemo", "APIDemo\APIDemo.csproj", "{6BA00801-15B4-4690-96F8-D88C0FA315D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTests", "ApiTests\ApiTests.csproj", "{BD682CCF-3674-4D9A-B41C-33F71B682852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium", "Selenium\Selenium.csproj", "{D264E146-B6B3-4633-9A1F-CF4C3DFCC917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA00801-15B4-4690-96F8-D88C0FA315D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA00801-15B4-4690-96F8-D88C0FA315D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA00801-15B4-4690-96F8-D88C0FA315D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA00801-15B4-4690-96F8-D88C0FA315D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD682CCF-3674-4D9A-B41C-33F71B682852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD682CCF-3674-4D9A-B41C-33F71B682852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD682CCF-3674-4D9A-B41C-33F71B682852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD682CCF-3674-4D9A-B41C-33F71B682852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D264E146-B6B3-4633-9A1F-CF4C3DFCC917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D264E146-B6B3-4633-9A1F-CF4C3DFCC917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D264E146-B6B3-4633-9A1F-CF4C3DFCC917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D264E146-B6B3-4633-9A1F-CF4C3DFCC917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8375CC2-0352-4873-95B3-2E39C5A5DDE3}
+	EndGlobalSection
+EndGlobal
